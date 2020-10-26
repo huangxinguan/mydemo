@@ -1,4 +1,4 @@
-package com.mydemo.sessiontext.controller;
+package com.mydemo.sessiontest.controller;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
