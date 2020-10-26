@@ -20,7 +20,7 @@ public class Result<T> {
 	private String msg;
 	
 	@ApiModelProperty("数据内容")
-	private T data;
+	private T data; 
 	
 	@ApiModelProperty(value = "服务器时间", example = "2018-01-01 08:00:00")
 	private Date serverTime = new Date();

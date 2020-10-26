@@ -32,7 +32,7 @@ public class RetCode {
 	 * 获取返回码对应的MSG
 	 * @author ZHANGZHENWEI 2016-8-5
 	 * @param code
-	 * @return
+	 * @return 
 	 */
 	public static String GetMsg(Object code) {
 		return FLAG_MAP.get(code);
