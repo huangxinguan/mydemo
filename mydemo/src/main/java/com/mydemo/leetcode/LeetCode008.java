@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class LeetCode8 {
+public class LeetCode008 {
 	public int[] sortedSquares(int[] nums) {
 		int[] result = new int[nums.length];
 		int i = 0;

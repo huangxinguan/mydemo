@@ -1,5 +1,5 @@
 package com.mydemo.leetcode;
 
-public class LeetCode9 {
+public class LeetCode010 {
 
 }

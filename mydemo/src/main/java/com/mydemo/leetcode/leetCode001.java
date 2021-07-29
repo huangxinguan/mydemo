@@ -1,6 +1,6 @@
 package com.mydemo.leetcode;
 
-public class leetCode1 {
+public class leetCode001 {
 	public static void main(String[] args) {
 		int[] nums = {1};
 		System.out.println(searchInsert(nums, 0));

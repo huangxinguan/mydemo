@@ -1,6 +1,6 @@
 package com.mydemo.leetcode;
 
-public class leetCode2 {
+public class leetCode002 {
 	public static void main(String[] args) {
 		System.out.println(mySqrt(2147483647));
 	}
