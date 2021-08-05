@@ -1,6 +1,6 @@
 package com.mydemo.leetcode;
 
-public class LeetCode17 {
+public class LeetCode017 {
 	/*
 	"hello"
 	"ooolleoooleh"

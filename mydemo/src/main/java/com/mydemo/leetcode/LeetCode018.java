@@ -2,7 +2,7 @@ package com.mydemo.leetcode;
 
 import java.util.Arrays;
 
-public class LeetCode18 {
+public class LeetCode018 {
 	//[1,1,1],[1,1,0],[1,0,1]
 	public static void main(String[] args) {
 		int[][] image = new int[][] {{1, 1, 1}, {1, 1, 0}, {1, 0, 1}};

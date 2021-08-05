@@ -1,6 +1,6 @@
 package com.mydemo.leetcode;
 
-public class LeetCode13 {
+public class LeetCode013 {
 	public String reverseWords(String s) {
 		char[] arr = s.toCharArray();
 		int start = 0;

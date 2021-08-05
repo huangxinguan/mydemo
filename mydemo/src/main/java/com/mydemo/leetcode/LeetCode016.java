@@ -1,6 +1,6 @@
 package com.mydemo.leetcode;
 
-public class LeetCode16 {
+public class LeetCode016 {
 	
 	public static void main(String[] args) {
 		String s = "";
