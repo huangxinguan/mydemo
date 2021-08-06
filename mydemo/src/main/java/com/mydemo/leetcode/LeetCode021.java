@@ -36,7 +36,7 @@ public class LeetCode021 {
 			System.out.println(list.get(i).val);
 			if(i == len || i == list.size() - 1) {
 				list.get(i).next = null;
-				len = len * 2;
+				len = len * 2 + 2;
 			}else {
 				list.get(i).next = list.get(i + 1);
 			}
@@ -63,6 +63,20 @@ public class LeetCode021 {
 		return list;
 	}
 	
+	public Node connect1(Node root) {
+		if(null == root) {
+			return root;
+		}
+		if(null != root.left) {
+			root.left.next = root.right;
+			if(null != root.next) {
+				root.right.next = root.next.left;
+			}
+		}
+		connect1(root.left);
+		connect1(root.right);
+		return root;
+	}
 		
 	
 	
