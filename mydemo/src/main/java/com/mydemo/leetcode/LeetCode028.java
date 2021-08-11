@@ -4,7 +4,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+/**
+ * 全排列
+ * @author paic
+ *
+ */
 public class LeetCode028 {
 	 List<List<Integer>> result = new ArrayList<>();
 	 List<Integer> path = new ArrayList<>();

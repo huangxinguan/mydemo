@@ -3,6 +3,11 @@ package com.mydemo.leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 组合 回溯
+ * @author paic
+ *
+ */
 public class LeetCode027 {
 	
 	static List<List<Integer>> result = new ArrayList<>();
