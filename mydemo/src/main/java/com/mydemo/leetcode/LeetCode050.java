@@ -4,7 +4,7 @@ package com.mydemo.leetcode;
  * 209. 长度最小的子数组 滑动窗口
  * @author paic
  *
- */
+ */ 
 public class LeetCode050 {
 	public int minSubArrayLen(int target, int[] nums) {
 		if(target <= 1) {

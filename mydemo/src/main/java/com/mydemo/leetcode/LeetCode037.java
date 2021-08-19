@@ -5,7 +5,7 @@ package com.mydemo.leetcode;
  * @author paic
  *
  */
-public class LeetCode037 {
+public class LeetCode037 { 
 	
 	public static void main(String[] args) {
 		int[] nums = {5,7,7,8,8,10};
