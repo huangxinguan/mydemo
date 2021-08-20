@@ -6,7 +6,7 @@ package com.mydemo.leetcode;
  *
  */ 
 public class LeetCode050 {
-	public int minSubArrayLen(int target, int[] nums) {
+	public int minSubArrayLen(int target, int[] nums) { 
 		if(target <= 1) {
 			return 0;
 		}
