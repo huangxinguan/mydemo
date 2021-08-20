@@ -1,5 +1,4 @@
 *.class
-/mydemo/.*
 /mydemo/bin/
 *.gitignore
 /mydemo/
